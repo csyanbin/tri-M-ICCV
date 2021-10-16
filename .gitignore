@@ -1,0 +1,3 @@
+checkpoints/*
+src/__pycache__
+src/datareader/__pycache__
