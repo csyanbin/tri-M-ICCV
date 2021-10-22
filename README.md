@@ -1,7 +1,7 @@
 ## A Multi-Mode Modulator for Multi-Domain Few-Shot Classification (ICCV'21)
 
 Official code implementation for
-[A Multi-Mode Modulator for Multi-Domain Few-Shot Classification](https://csyanbin.github.io/papers/ICCV2021_tri-M.pdf) (ICCV 2021)
+[A Multi-Mode Modulator for Multi-Domain Few-Shot Classification](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_A_Multi-Mode_Modulator_for_Multi-Domain_Few-Shot_Classification_ICCV_2021_paper.pdf) (ICCV 2021)
 
 ### Requirements:
 
